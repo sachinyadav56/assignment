@@ -1,0 +1,4 @@
+remote_work_policy: Employees are allowed to work remotely 3 days per week (Tue, Wed, Thu).
+vacation_policy: 20 days per year.
+meal_allowance: $50 per day.
+Supersedes all previous versions.

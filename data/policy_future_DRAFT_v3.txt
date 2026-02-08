@@ -1,0 +1,4 @@
+[DRAFT - NOT YET EFFECTIVE]
+remote_work_policy: Fully remote work is allowed.
+vacation_policy: Unlimited time off.
+meal_allowance: $100 per day.
